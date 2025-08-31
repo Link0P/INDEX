@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on developing my personal portfolio .<br><br>Open to collaborating on innovative front-end development projects.<br><br>Actively learning Data Structures and Algorithms (DSA) using Python to strengthen problem-solving skills.<br><br>Passionate about staying updated with the latest trends and advancements in technology.
+Currently working on developing my personal portfolio.<br><br>Open to collaborating on innovative front-end development projects.<br><br>Actively learning Data Structures and Algorithms (DSA) using Python to strengthen problem-solving skills.<br><br>Passionate about staying updated with the latest trends and advancements in technology.
 
 
 # 💻 Tech Stack:
